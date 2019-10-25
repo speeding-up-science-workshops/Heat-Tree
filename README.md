@@ -18,3 +18,8 @@ We begin with a standard OTU table that has samples as columns and individual OT
 How should we use/interpret this visualization?
 The purpose of these visualization is to see which phylogenetic groups are most abundant across your samples. This is an alternative visualization to a taxonomic stacked bar chart. The benefit of this visualization is that it demonstrates the phylogenetic relationship of the sequences, as opposed to only demonstrating single taxonomic levels at a time.
 These visualizations should be interpreted similar to a heat map, where the strength go the color is representative of the relative of abundance of these phylogenetic groups. More specific interpretations for each graph are provided in the comments throughout the R code.
+
+Links
+
+GitHub Repository: 
+Binder:
