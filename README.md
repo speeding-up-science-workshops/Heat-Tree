@@ -21,5 +21,7 @@ These visualizations should be interpreted similar to a heat map, where the stre
 
 Links
 
-GitHub Repository: 
+GitHub Repository: https://github.com/janelucas/Heat-Tree/blob/master/README.md
+
+
 Binder:
