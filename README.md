@@ -24,5 +24,6 @@ Links
 GitHub Repository: https://github.com/janelucas/Heat-Tree/blob/master/README.md
 
 
-Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/janelucas/Heat-Tree/master)
+Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/janelucas/Heat-Tree/master?urlpath=rstudio)
+
 
