@@ -1,4 +1,3 @@
-pkgs = c("tidyverse")
+pkgs = c("tidyverse", "metacoder")
 ncores = parallel::detectCores()
-install.packages("metacoder")
 install.packages(pkgs, Ncpus = ncores)
