@@ -1,6 +1,6 @@
 if (!requireNamespace("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
-BiocManager::install("biomformat", version = "1.12.0")
+BiocManager::install("biomformat")
 
 pkgs = c("tidyverse", "metacoder")
 ncores = parallel::detectCores()
