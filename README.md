@@ -1,6 +1,6 @@
-# Heat-Tree
-heat tree visualization
+# Heat-Tree: Compare Abundance of Phylogenetic groups across samples
 
+[![DOI](https://zenodo.org/badge/217631252.svg)](https://zenodo.org/badge/latestdoi/217631252)
 
 Authors:
 Jane Lucas and Niel Infante
@@ -21,8 +21,7 @@ These visualizations should be interpreted similar to a heat map, where the stre
 
 Links
 
-GitHub Repository: https://github.com/janelucas/Heat-Tree/blob/master/README.md
-
+GitHub Repository: https://github.com/speeding-up-science-workshops/Heat-Tree
 
 Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/janelucas/Heat-Tree/master?urlpath=rstudio)
 
